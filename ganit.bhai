@@ -1,0 +1,42 @@
+hi bhai
+
+bol bhai "Hello World!!";
+bol bhai "Chaliye Ganit Seekhte Hai...";
+
+bhai ye hai num1 = 5;
+bhai ye hai num2 = 3;
+
+bhai ye hai sum, diff, prod, div;
+
+bhai ye hai opr = 1;
+
+agar bhai (opr == 1)
+{
+    sum = num1 + num2;
+    bol bhai (num1 + " aur " + num2 + " hue " + sum);
+    opr = 2;
+}
+agar bhai (opr == 2)
+{
+    diff = num1 - num2;
+    bol bhai (num1 + " mai se " + num2 + " gaya toh bacha " + diff);
+    opr = 3;
+}
+agar bhai (opr == 3)
+{
+    prod = num1 * num2;
+    bol bhai (num1 + " guna " + num2 + " hue " + prod);
+    opr = 4;
+}
+agar bhai (opr == 4)
+{
+    div = num1 / num2;
+    bol bhai (num1 + " bhag " + num2 + " hue " + div);
+    opr = nalla;
+}
+warna bhai
+{
+    bol bhai ("Aur kya karna chahta hai bhai?");
+}
+
+bye bhai
