@@ -1,0 +1,12 @@
+hi bhai
+
+bhai ye hai num = 5;
+bhai ye hai x = 0;
+
+jab tak bhai (x < 10)
+{
+    x += 1;
+    bol bhai (num + " x " + x + " = " + num * x);
+}
+
+bye bhai
