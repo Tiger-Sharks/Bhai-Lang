@@ -1,0 +1,18 @@
+hi bhai
+
+bhai ye hai age = 50;
+
+agar bhai (age > 18)
+{
+    bol bhai ("Jao aur vote daalo!");
+}
+nahi to bhai (age = 18)
+{
+    bol bhai ("Jao aur vote daalo!");
+}
+warna bhai
+{
+    bol bhai ("Ruko abhi time hai!!");
+}
+
+bye bhai
